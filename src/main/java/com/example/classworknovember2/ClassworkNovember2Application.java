@@ -13,7 +13,7 @@ public class ClassworkNovember2Application {
         Scanner scanner = new Scanner(System.in);
         String name = "Borislav";
         int age = 17;
-        String city = "Grudovo";
+        String city = "Sredets";
         String string = scanner.nextLine();
         if(string=="/home") {
             System.out.println("Welcome user!");
